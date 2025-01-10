@@ -17,5 +17,5 @@ Let me know if you have any questions or need any adjustments!
 
 Best regards,
 
-**[Your Name], Security Analyst**<br/>
+**Daniel Muguercia, Security Analyst**<br/>
 **Governance, Risk, and Compliance**
